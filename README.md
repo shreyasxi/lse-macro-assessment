@@ -5,6 +5,7 @@
 
 📄 **Paper**: [**Read the Final Assessment Report Here**](docs/Assessment_Report.pdf)
 
+---
 
 
 ## 📌 Overview
@@ -21,7 +22,7 @@ The assessment consists of three main components:
 ## 📁 Project Structure
 
 ```text
-lse_assessment_[YourName]/
+lse_macro_assessment/
 ├── data/
 │   ├── raw/              # Original Eurostat downloads, recession.xlsx
 │   └── processed/        # Cleaned and merged datasets
@@ -34,6 +35,7 @@ lse_assessment_[YourName]/
 │   └── tables/           # Descriptive stats, regression results
 ├── requirements.txt
 └── README.md
+└── Codes (Task C)        # Codescripts required for the completion of Task C
 ```
 
 ## 🔧 Installation & Replication
