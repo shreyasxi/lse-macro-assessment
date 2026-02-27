@@ -3,9 +3,9 @@
 **Author:** Shreyas Urgunde  
 **Date:** January 2026  
 
-📄 **Paper**: [**Read the Final Assessment Report Here**](docs/Assessment_Report.pdf)
+📄 **Paper**: [Read the Final Assessment Report Here](https://shreyasxi.github.io/lse-macro-assessment/docs/Assessment_Report.pdf)
 
-[**📄 Read the Final Assessment Report Here**](https://raw.githubusercontent.com/shreyasxi/lse-macro-assessment/main/docs/Assessment_Report.pdf)
+**Related Prior Work:** 👉 [View my thesis on ECB Narrative Tone & Market Impact](https://shreyasxi.github.io/ecb-narrative-tone-market-impact-thesis/)
 
 ---
 
