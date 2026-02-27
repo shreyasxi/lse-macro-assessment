@@ -1,11 +1,13 @@
 # LSE Centre for Macroeconomics - Pre-Doctoral Assessment
 
-**Author:** Shreyas Urgunde
+**Author:** Shreyas Urgunde  
 **Date:** January 2026  
 
-[**📄 Read the Final Assessment Report Here**](docs/Assessment_Report.pdf)
+📄 **Paper**: [**Read the Final Assessment Report Here**](docs/Assessment_Report.pdf)
 
-## Overview
+
+
+## 📌 Overview
 This repository contains my completed technical assessment for the Pre-Doctoral Research Assistant position at the LSE Centre for Macroeconomics. The project involved handling complex macroeconomic data, critically evaluating research methodologies, and solving dynamic programming problems computationally.
 
 The assessment consists of three main components:
@@ -16,7 +18,7 @@ The assessment consists of three main components:
 
 3. **Macroeconomic Modeling (Task C):** Solving a heterogeneous-agent consumption-savings model with income uncertainty. This involves using Value Function Iteration (VFI) to derive the Euler equation, compute stationary distributions, and calibrate the discount factor to match empirical estimates of the Marginal Propensity to Consume (MPC).
 
-## Project Structure
+## 📁 Project Structure
 
 ```text
 lse_assessment_[YourName]/
@@ -34,11 +36,11 @@ lse_assessment_[YourName]/
 └── README.md
 ```
 
-## Installation & Replication
+## 🔧 Installation & Replication
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/](https://github.com/)[shreyasxi]/lse-macro-assessment.git
+   git clone https://github.com/janedoe123/lse-macro-assessment.git
    cd lse-macro-assessment
    ```
 
