@@ -5,6 +5,8 @@
 
 📄 **Paper**: [**Read the Final Assessment Report Here**](docs/Assessment_Report.pdf)
 
+[**📄 Read the Final Assessment Report Here**](https://raw.githubusercontent.com/shreyasxi/lse-macro-assessment/main/docs/Assessment_Report.pdf)
+
 ---
 
 
@@ -28,8 +30,8 @@ lse_macro_assessment/
 │   └── processed/        # Cleaned and merged datasets
 ├── docs/                 # Final write-up
 │   ├── Assessment_Report.pdf
-│   └── Task_Instructions.pdf
-├── macro_analysis.ipynb  #Jupyter Notebook that contains the code
+│   └── Assessment_Report.tex
+├── macro_analysis.ipynb  # Jupyter Notebook that contains the code
 ├── output/
 │   ├── figures/          # All plots
 │   └── tables/           # Descriptive stats, regression results
