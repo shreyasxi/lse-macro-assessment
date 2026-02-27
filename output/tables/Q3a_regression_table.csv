@@ -1,0 +1,9 @@
+Variable,(1),(2),(3),(4)
+ln(TFP),-4.638,-6.137*,6.432***,5.081***
+,(4.084),(3.650),(1.992),(1.894)
+Observations,294,294,294,294
+R²,0.002,0.016,0.973,0.974
+Adj. R²,-0.001,-0.001,0.972,0.972
+Country FE,No,Yes,Yes,Yes
+Sector FE,No,No,Yes,Yes
+Year FE,No,No,No,Yes
